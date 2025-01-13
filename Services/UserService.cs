@@ -94,5 +94,27 @@ namespace ecommerce_api.Services
             await _context.SaveChangesAsync();
             return true;
         }
+
+        private async Task<string?> Saveavatar(IFormFile? file)
+        {
+            if (file == null || file.Length == 0)
+                return null;
+            var avatarPath = @"C:\Users\jatabilog\Desktop\xxx\Ecommerce Client\src\assets\avatars";
+
+            if (!Directory.Exists(avatarPath))
+            {
+                Directory.CreateDirectory(avatarPath);
+            }
+
+            var uniqueFileName = $"{Guid.NewGuid()}_{file.FileName}";
+            var filePath = Path.Combine(avatarPath, uniqueFileName);
+
+            using (var fileStream = new FileStream(filePath, FileMode.Create))
+            {
+                await file.CopyToAsync(fileStream);
+            }
+
+            return $"assets/avatars/{uniqueFileName}";
+        }
     }
 }
