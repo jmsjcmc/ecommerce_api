@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\ecommerce_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:ecommerce_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\ecommerce_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:ecommerce_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ecommerce_api",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\ecommerce_api.csproj",
+              "RelativeDocumentMoniker": "ecommerce_api.csproj",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\ecommerce_api.csproj",
+              "RelativeToolTip": "ecommerce_api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T00:59:27.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ecommerce_api",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\ecommerce_api.csproj",
+              "RelativeDocumentMoniker": "ecommerce_api.csproj",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\ecommerce_api.csproj",
+              "RelativeToolTip": "ecommerce_api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T00:59:01.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
