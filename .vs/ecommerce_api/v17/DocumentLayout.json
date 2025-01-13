@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\ecommerce_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:ecommerce_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -23,19 +31,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ecommerce_api",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-01-13T01:16:08.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T01:04:32.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ecommerce_api.csproj",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\ecommerce_api.csproj",
               "RelativeDocumentMoniker": "ecommerce_api.csproj",
               "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\ecommerce_api.csproj",
               "RelativeToolTip": "ecommerce_api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-13T00:59:27.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ecommerce_api",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\ecommerce_api.csproj",
               "RelativeDocumentMoniker": "ecommerce_api.csproj",
