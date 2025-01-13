@@ -9,6 +9,7 @@
         public string Username { get; set; }
         public string Role { get; set; }
         public string Password { get; set; }
+        public string Avatar { get; set; }
         public DateTime Datecreated { get; set; }
         public DateTime? Dateupdated { get; set; }
     }
@@ -21,7 +22,8 @@
         public string Username { get; set; }
         public string Role { get; set; }
         public string Password { get; set; }
-        public DateTime Datereceived { get; set; }
+        public IFormFile? Avatar { get; set; }
+        public DateTime Datecreated { get; set; }
         public DateTime? Dateupdated { get; set; }
     }
 

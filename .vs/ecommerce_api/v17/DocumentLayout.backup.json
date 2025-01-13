@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Migrations\\20250113034055_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250113034055_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,6 +23,18 @@
       "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Migrations\\20250113053441_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250113053441_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\ecommerce_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:ecommerce_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Migrations\\20250113034055_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250113034055_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\migrations\\20250113032738_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:migrations\\20250113032738_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,20 +43,12 @@
       "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\ecommerce_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:ecommerce_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\ecommerce_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:ecommerce_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\ecommerce_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -54,76 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20250113034055_v3.cs",
-              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Migrations\\20250113034055_v3.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250113034055_v3.cs",
-              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Migrations\\20250113034055_v3.cs",
-              "RelativeToolTip": "Migrations\\20250113034055_v3.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T03:40:55.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20250113032738_v2.cs",
-              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Migrations\\20250113032738_v2.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250113032738_v2.cs",
-              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Migrations\\20250113032738_v2.cs",
-              "RelativeToolTip": "Migrations\\20250113032738_v2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T03:27:39.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T03:19:38.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ecommerce_api.http",
-              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\ecommerce_api.http",
-              "RelativeDocumentMoniker": "ecommerce_api.http",
-              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\ecommerce_api.http",
-              "RelativeToolTip": "ecommerce_api.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-13T03:21:21.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T02:46:51.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -136,46 +92,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAADwv2cAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T01:23:47.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAUwJsAAAATAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-01-13T01:16:08.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA1wB0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T01:04:32.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:19:38.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA4wF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:22:03.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ecommerce_api.http",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\ecommerce_api.http",
+              "RelativeDocumentMoniker": "ecommerce_api.http",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\ecommerce_api.http",
+              "RelativeToolTip": "ecommerce_api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-13T03:21:21.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ecommerce_api.csproj",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\ecommerce_api.csproj",
               "RelativeDocumentMoniker": "ecommerce_api.csproj",
@@ -188,7 +157,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
+              "Title": "20250113032738_v2.cs",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Migrations\\20250113032738_v2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250113032738_v2.cs",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Migrations\\20250113032738_v2.cs",
+              "RelativeToolTip": "Migrations\\20250113032738_v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:27:39.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250113034055_v3.cs",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Migrations\\20250113034055_v3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250113034055_v3.cs",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Migrations\\20250113034055_v3.cs",
+              "RelativeToolTip": "Migrations\\20250113034055_v3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:40:55.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAUwJsAAAATAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-01-13T01:16:08.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ecommerce_api",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\ecommerce_api.csproj",
               "RelativeDocumentMoniker": "ecommerce_api.csproj",
@@ -196,6 +204,38 @@
               "RelativeToolTip": "ecommerce_api.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-13T00:59:01.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250113053441_v4.cs",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Migrations\\20250113053441_v4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250113053441_v4.cs",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Migrations\\20250113053441_v4.cs",
+              "RelativeToolTip": "Migrations\\20250113053441_v4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:34:41.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T01:23:47.501Z",
               "EditorCaption": ""
             }
           ]
