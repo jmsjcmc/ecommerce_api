@@ -6,7 +6,17 @@ using Microsoft.OpenApi.Models;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("AppDbContext") ?? throw new InvalidOperationException("Connection string 'AppDbContext' not found.")));
-
+builder.Services.AddCors(c =>
+{
+    c.AddPolicy("AllowSpecificOrigin", builder =>
+    {
+        builder
+        .WithOrigins("http://localhost:4200")
+        .AllowAnyMethod()
+        .AllowAnyHeader()
+        .AllowCredentials();
+    });
+});
 builder.Services.AddControllers();
 builder.Services.AddScoped<UserService>();
 builder.Services.AddEndpointsApiExplorer();

@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DE8543E-6887-4D75-BCA2-8984E0FD206A}|ecommerce_api.csproj|c:\\users\\jatabilog\\desktop\\xxx\\ecommerce_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -96,14 +96,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T03:19:38.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
@@ -217,13 +217,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\jatabilog\\Desktop\\xxx\\ecommerce_api\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T01:23:47.501Z",
               "EditorCaption": ""
