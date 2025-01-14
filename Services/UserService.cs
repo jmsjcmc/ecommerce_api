@@ -1,5 +1,6 @@
 ﻿using ecommerce_api.Data;
 using ecommerce_api.Models;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
 
 namespace ecommerce_api.Services
@@ -40,6 +41,8 @@ namespace ecommerce_api.Services
 
         public async Task<User> createUser(UserDto userDto)
         {
+          
+            var avatarPath = await Saveavatar(userDto.Avatar);
             var user = new User
             {
                 Firstname = userDto.Firstname,
@@ -47,6 +50,7 @@ namespace ecommerce_api.Services
                 Email = userDto.Email,
                 Username = userDto.Username,
                 Role = "Consumer",
+                Avatar = avatarPath,
                 Password = BCrypt.Net.BCrypt.HashPassword(userDto.Password),
                 Datecreated = DateTime.Now,
             };
